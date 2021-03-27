@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9cd2e46e29ac2c49f5678af84486789",
+    "revision": "3c96a6adb0012d62215f7c56ad9a6b4d",
     "url": "/etherean-builds-ghp/index.html"
   },
   {
