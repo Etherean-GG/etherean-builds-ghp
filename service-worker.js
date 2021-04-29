@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/etherean-builds-ghp/precache-manifest.7e169450fbee6818f91a3230aedcc104.js"
+  "/etherean-builds-ghp/precache-manifest.fd5c7f0c0ca5fab569a4ae638d3b04c4.js"
 );
 
 self.addEventListener('message', (event) => {
